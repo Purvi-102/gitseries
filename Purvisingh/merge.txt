@@ -1,2 +1,6 @@
+
 Trying for merge conflict
 content to append
+
+different content
+
